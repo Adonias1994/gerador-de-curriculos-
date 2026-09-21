@@ -1,22 +1,22 @@
-# 📄 Motor de Geração Automatizada de Currículos
+# 📄 Automated Resume Generation Engine
 
-Projeto focado na coleta, estruturação, persistência e processamento de dados para geração de documentos automatizados. A aplicação utiliza uma interface web para coletar informações, armazená-las de forma segura em um banco de dados e alimentar um script de processamento em Python no Back-End.
+Project focused on data collection, structuring, persistence, and processing for the generation of automated documents. The application uses a web interface to collect information, store it securely in a database, and feed a Python processing script on the back-end.
 
-## 🛠️ Stack Tecnológica
-* **Back-End & Lógica:** Python (Processamento de dados e regras de negócio)
-* **Banco de Dados:** SQL (Persistência de dados, modelagem de tabelas e queries)
-* **Front-End (Interface de Coleta):** HTML5, CSS3, JavaScript (Manipulação do DOM e formulários dinâmicos)
+## 🛠️ Technology Stack
+* **Back-End & Logic:** Python (Data processing and business rules)
+* **Database:** SQLite via Python (Data persistence, table modeling, and SQL queries)
+* **Front-End (Collection Interface):** HTML5, CSS3, JavaScript (DOM manipulation and dynamic forms)
 
-## ⚙️ Status do Projeto
-Em desenvolvimento contínuo. 
-- [x] Estrutura semântica e formulários de coleta (HTML5)
-- [x] Estilização e responsividade (CSS3)
-- [x] Lógica de clonagem de múltiplos campos e validação (JavaScript)
-- [ ] Modelagem do Banco de Dados e persistência (SQL)
-- [ ] Processamento de dados e exportação (Python)
+## ⚙️ Project Status
+Under continuous development.
+- [x] Semantic structure and data collection forms (HTML5)
+- [x] Styling and responsiveness (CSS3)
+- [x] Logic for cloning multiple fields and validation (JavaScript)
+- [ ] Database modeling and data persistence (SQLite)
+- [ ] Data processing and export (Python)
 
-## 🎯 Foco de Engenharia e Segurança
-Este repositório demonstra a capacidade de projetar uma aplicação de ponta a ponta: 
-1. Recebendo dados dinâmicos do Front-End.
-2. Tratando e armazenando as informações no Banco de Dados (prevenindo injeções de SQL).
-3. Processando os dados no servidor (Python) para a geração automatizada do documento final.
+## 🎯 Engineering & Security Focus
+This repository demonstrates the ability to design an end-to-end application:
+1. Receiving dynamic data from the Front-End.
+2. Sanitizing and storing information in the Database (preventing SQL injections).
+3. Processing data on the server-side (Python) for the automated generation of the final document.
