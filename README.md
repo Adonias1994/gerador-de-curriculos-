@@ -10,7 +10,7 @@ Projeto focado na coleta, estruturação, persistência e processamento de dados
 ## ⚙️ Status do Projeto
 Em desenvolvimento contínuo. 
 - [x] Estrutura semântica e formulários de coleta (HTML5)
-- [ ] Estilização e responsividade (CSS3)
+- [x] Estilização e responsividade (CSS3)
 - [ ] Lógica de clonagem de múltiplos campos e validação (JavaScript)
 - [ ] Modelagem do Banco de Dados e persistência (SQL)
 - [ ] Processamento de dados e exportação (Python)
